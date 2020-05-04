@@ -1,0 +1,6 @@
+artificial_intelligence	articial_intelligence,artificial_intelligence,logic,reasoning,chalkiadakis,aaai,european_conference_on_articial_intelligence,dialectical,theory,modal_logic,argumentation,synthese,editors,mcburney,plenum,besnard,dialectics,negotiation,boella,knowledge_engineering
+text_mining	text_mining,text_data,text,documents,network_analysis,topic_modeling,corpus,topics,topic,topic_model,document,extraction,domain,extract,extracted,retrieval,textual,typed_entities,knowledge,texts
+communication_networks	such,also,some,result,example,many,important,clearly,well,several,interesting,typical,next,specic,how,though,cases,examples,small,particular
+social_computing	third,social_computing,socialcom,ieee,ieee_international_conference_on,ahmad,fourth,social_networks,social_intelligence,social,society,proceedings,th,international_conference,conference,cogsima,communications,engagement,identity,workshop
+distributed_systems	distributed_systems,distributed,rdbms,key,middleware,deduplication,database,storage,disk,processing,software,multicore,centralized,management,distributed_database,placement,multiprocessor,nosql,protocol,xml
+pattern_recognition	pattern_recognition,color,vision,image,boutalis,directivity,isoiecjtcscwg,pedestrian,texture,smeulders,recognition,brightness,neural_networks,scene,localization,object_detection,contour,convolutional,pixels,malik

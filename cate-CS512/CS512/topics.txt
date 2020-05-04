@@ -1,0 +1,6 @@
+artificial_intelligence
+text_mining
+communication_networks
+social_computing
+distributed_systems
+pattern_recognition
